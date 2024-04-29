@@ -69,6 +69,7 @@ $ git add .
 $ git commit -m "add CI.yml and update README.md"
 $ git push origin main
 ```
+В Github Actions все прошло.
 
 ```
 Copyright (c) 2015-2021 The ISC Authors
